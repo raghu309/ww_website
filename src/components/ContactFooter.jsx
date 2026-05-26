@@ -104,8 +104,8 @@ export default function ContactFooter() {
                 </div>
                 <div className="flex flex-col text-left">
                   <span className="text-[10px] text-slate-400 uppercase tracking-widest">Direct Email</span>
-                  <a href="mailto:harsharock473@gmail.com" className="text-slate-200 font-semibold hover:text-yellow-500 hover:underline break-all">
-                    harsharock473@gmail.com
+                  <a href="mailto:hariomenterprises1522@gmail.com" className="text-slate-200 font-semibold hover:text-yellow-500 hover:underline break-all">
+                    hariomenterprises1522@gmail.com
                   </a>
                 </div>
               </div>
